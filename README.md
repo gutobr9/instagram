@@ -1,2 +1,2 @@
 # instagram
-Clove Web Page Instagram
+Clone Web Page Instagram
